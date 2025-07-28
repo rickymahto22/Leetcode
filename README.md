@@ -14,6 +14,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/rickymahto22/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rickymahto22/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/rickymahto22/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rickymahto22/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rickymahto22/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rickymahto22/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
