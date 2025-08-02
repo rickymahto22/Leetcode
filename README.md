@@ -14,6 +14,7 @@
 | [0940-fruit-into-baskets](https://github.com/rickymahto22/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rickymahto22/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/rickymahto22/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/rickymahto22/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rickymahto22/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -32,6 +33,7 @@
 | [0940-fruit-into-baskets](https://github.com/rickymahto22/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rickymahto22/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/rickymahto22/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1319-unique-number-of-occurrences](https://github.com/rickymahto22/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rickymahto22/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -53,6 +55,7 @@
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/rickymahto22/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Sorting
@@ -74,6 +77,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rickymahto22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/rickymahto22/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rickymahto22/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/rickymahto22/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rickymahto22/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rickymahto22/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
