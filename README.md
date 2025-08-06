@@ -100,6 +100,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/rickymahto22/Leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/rickymahto22/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/rickymahto22/Leetcode/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,4 +109,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rickymahto22/Leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/rickymahto22/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
