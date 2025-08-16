@@ -127,6 +127,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rickymahto22/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/rickymahto22/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/rickymahto22/Leetcode/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rickymahto22/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
