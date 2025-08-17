@@ -27,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rickymahto22/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rickymahto22/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/rickymahto22/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rickymahto22/Leetcode/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rickymahto22/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rickymahto22/Leetcode/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/rickymahto22/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rickymahto22/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -120,6 +122,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rickymahto22/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rickymahto22/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/rickymahto22/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rickymahto22/Leetcode/tree/master/0205-isomorphic-strings) |
