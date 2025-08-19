@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rickymahto22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0209-minimum-size-subarray-sum](https://github.com/rickymahto22/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rickymahto22/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/rickymahto22/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -125,6 +126,7 @@
 | [0008-string-to-integer-atoi](https://github.com/rickymahto22/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rickymahto22/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rickymahto22/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/rickymahto22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/rickymahto22/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rickymahto22/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rickymahto22/Leetcode/tree/master/0290-word-pattern) |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/rickymahto22/Leetcode/tree/master/0812-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rickymahto22/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
