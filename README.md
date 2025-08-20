@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rickymahto22/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/rickymahto22/Leetcode/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/rickymahto22/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rickymahto22/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/rickymahto22/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/rickymahto22/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rickymahto22/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/rickymahto22/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/rickymahto22/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rickymahto22/Leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/rickymahto22/Leetcode/tree/master/0290-word-pattern) |
@@ -69,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rickymahto22/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rickymahto22/Leetcode/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/rickymahto22/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -127,6 +130,7 @@
 | [0012-integer-to-roman](https://github.com/rickymahto22/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rickymahto22/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rickymahto22/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/rickymahto22/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rickymahto22/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rickymahto22/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rickymahto22/Leetcode/tree/master/0290-word-pattern) |
