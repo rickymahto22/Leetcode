@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rickymahto22/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rickymahto22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/rickymahto22/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/rickymahto22/Leetcode/tree/master/0049-group-anagrams) |
@@ -106,6 +107,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rickymahto22/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rickymahto22/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/rickymahto22/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rickymahto22/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rickymahto22/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rickymahto22/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
