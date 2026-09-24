@@ -209,6 +209,7 @@
 ## Database
 |  |
 | ------- |
+| [1251-average-selling-price](https://github.com/rickymahto22/Leetcode/tree/master/1251-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rickymahto22/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Divide and Conquer
 |  |
