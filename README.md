@@ -33,6 +33,7 @@
 | [1635-number-of-good-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/rickymahto22/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rickymahto22/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rickymahto22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/rickymahto22/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rickymahto22/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rickymahto22/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -66,6 +67,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rickymahto22/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rickymahto22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rickymahto22/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rickymahto22/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -191,6 +193,7 @@
 | [0812-rotate-string](https://github.com/rickymahto22/Leetcode/tree/master/0812-rotate-string) |
 | [1096-brace-expansion-ii](https://github.com/rickymahto22/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rickymahto22/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rickymahto22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rickymahto22/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/rickymahto22/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
