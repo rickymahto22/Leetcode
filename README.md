@@ -36,6 +36,7 @@
 | [1635-number-of-good-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/rickymahto22/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rickymahto22/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rickymahto22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rickymahto22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/rickymahto22/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -71,6 +72,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rickymahto22/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rickymahto22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rickymahto22/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rickymahto22/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -104,6 +106,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1096-brace-expansion-ii](https://github.com/rickymahto22/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rickymahto22/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/rickymahto22/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rickymahto22/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
@@ -177,6 +180,7 @@
 | [0443-string-compression](https://github.com/rickymahto22/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rickymahto22/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/rickymahto22/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/rickymahto22/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rickymahto22/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
