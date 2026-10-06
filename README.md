@@ -20,6 +20,7 @@
 | [0605-can-place-flowers](https://github.com/rickymahto22/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rickymahto22/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rickymahto22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/rickymahto22/Leetcode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/rickymahto22/Leetcode/tree/master/0835-image-overlap) |
 | [0940-fruit-into-baskets](https://github.com/rickymahto22/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rickymahto22/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -85,6 +86,7 @@
 | [0523-continuous-subarray-sum](https://github.com/rickymahto22/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rickymahto22/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rickymahto22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/rickymahto22/Leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/rickymahto22/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
