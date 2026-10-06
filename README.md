@@ -247,6 +247,7 @@
 | [1321-restaurant-growth](https://github.com/rickymahto22/Leetcode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/rickymahto22/Leetcode/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/rickymahto22/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1667-fix-names-in-a-table](https://github.com/rickymahto22/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rickymahto22/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/rickymahto22/Leetcode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rickymahto22/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
