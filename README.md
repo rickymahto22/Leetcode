@@ -240,6 +240,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/rickymahto22/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rickymahto22/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/rickymahto22/Leetcode/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rickymahto22/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rickymahto22/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Divide and Conquer
 |  |
