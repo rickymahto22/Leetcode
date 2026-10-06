@@ -219,6 +219,7 @@
 | [0344-reverse-string](https://github.com/rickymahto22/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rickymahto22/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/rickymahto22/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rickymahto22/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/rickymahto22/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -313,6 +314,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/rickymahto22/Leetcode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rickymahto22/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -368,6 +370,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/rickymahto22/Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/rickymahto22/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/rickymahto22/Leetcode/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0856-score-of-parentheses) |
