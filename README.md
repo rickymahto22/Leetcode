@@ -173,6 +173,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rickymahto22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rickymahto22/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rickymahto22/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rickymahto22/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rickymahto22/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/rickymahto22/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -198,6 +199,7 @@
 | [0290-word-pattern](https://github.com/rickymahto22/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rickymahto22/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rickymahto22/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rickymahto22/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/rickymahto22/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -299,6 +301,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rickymahto22/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rickymahto22/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rickymahto22/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
