@@ -187,6 +187,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rickymahto22/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/rickymahto22/Leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/rickymahto22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rickymahto22/Leetcode/tree/master/0344-reverse-string) |
@@ -205,6 +206,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rickymahto22/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/rickymahto22/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rickymahto22/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rickymahto22/Leetcode/tree/master/0013-roman-to-integer) |
@@ -325,6 +327,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rickymahto22/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0392-is-subsequence) |
@@ -415,4 +418,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rickymahto22/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
