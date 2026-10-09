@@ -178,6 +178,7 @@
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/rickymahto22/Leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/rickymahto22/Leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/rickymahto22/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rickymahto22/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rickymahto22/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -228,6 +229,7 @@
 | [0443-string-compression](https://github.com/rickymahto22/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rickymahto22/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0649-dota2-senate](https://github.com/rickymahto22/Leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/rickymahto22/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rickymahto22/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/rickymahto22/Leetcode/tree/master/0812-rotate-string) |
@@ -433,6 +435,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/rickymahto22/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/rickymahto22/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
