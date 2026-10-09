@@ -200,6 +200,7 @@
 | [0680-valid-palindrome-ii](https://github.com/rickymahto22/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/rickymahto22/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rickymahto22/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rickymahto22/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
@@ -391,6 +392,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rickymahto22/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rickymahto22/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/rickymahto22/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Breadth-First Search
 |  |
@@ -441,4 +443,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/rickymahto22/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rickymahto22/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
