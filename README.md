@@ -311,14 +311,17 @@
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rickymahto22/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rickymahto22/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rickymahto22/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -447,4 +450,12 @@
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rickymahto22/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
