@@ -48,6 +48,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/rickymahto22/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/rickymahto22/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rickymahto22/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rickymahto22/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rickymahto22/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rickymahto22/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/rickymahto22/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -351,6 +352,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rickymahto22/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rickymahto22/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
