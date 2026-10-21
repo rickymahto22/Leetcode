@@ -36,6 +36,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/rickymahto22/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rickymahto22/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/rickymahto22/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1319-unique-number-of-occurrences](https://github.com/rickymahto22/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rickymahto22/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rickymahto22/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -145,6 +146,7 @@
 | [0217-contains-duplicate](https://github.com/rickymahto22/Leetcode/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1096-brace-expansion-ii](https://github.com/rickymahto22/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1268-search-suggestions-system](https://github.com/rickymahto22/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rickymahto22/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rickymahto22/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -209,6 +211,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rickymahto22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rickymahto22/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/rickymahto22/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rickymahto22/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rickymahto22/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rickymahto22/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -300,6 +303,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rickymahto22/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1268-search-suggestions-system](https://github.com/rickymahto22/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rickymahto22/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rickymahto22/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rickymahto22/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -316,6 +320,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rickymahto22/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1268-search-suggestions-system](https://github.com/rickymahto22/Leetcode/tree/master/1268-search-suggestions-system) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rickymahto22/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rickymahto22/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rickymahto22/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -333,6 +338,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rickymahto22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/rickymahto22/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/rickymahto22/Leetcode/tree/master/1268-search-suggestions-system) |
 ## Database
 |  |
 | ------- |
