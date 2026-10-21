@@ -362,6 +362,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/rickymahto22/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rickymahto22/Leetcode/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/rickymahto22/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/rickymahto22/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/rickymahto22/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -470,6 +471,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rickymahto22/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0547-number-of-provinces](https://github.com/rickymahto22/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/rickymahto22/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/rickymahto22/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -542,6 +544,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rickymahto22/Leetcode/tree/master/0547-number-of-provinces) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rickymahto22/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -560,5 +563,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rickymahto22/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/rickymahto22/Leetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
