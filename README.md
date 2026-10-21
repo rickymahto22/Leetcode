@@ -270,6 +270,7 @@
 | [0022-generate-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rickymahto22/Leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/rickymahto22/Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/rickymahto22/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rickymahto22/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rickymahto22/Leetcode/tree/master/0290-word-pattern) |
@@ -434,6 +435,7 @@
 | [0022-generate-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/rickymahto22/Leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/rickymahto22/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/rickymahto22/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rickymahto22/Leetcode/tree/master/0678-valid-parenthesis-string) |
