@@ -96,6 +96,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/rickymahto22/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rickymahto22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rickymahto22/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/rickymahto22/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/rickymahto22/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rickymahto22/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rickymahto22/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -293,6 +294,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rickymahto22/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rickymahto22/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/rickymahto22/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -527,6 +529,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/rickymahto22/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/rickymahto22/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -600,4 +603,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rickymahto22/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/rickymahto22/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
