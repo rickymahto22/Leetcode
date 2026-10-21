@@ -25,6 +25,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rickymahto22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rickymahto22/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rickymahto22/Leetcode/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/rickymahto22/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/rickymahto22/Leetcode/tree/master/0835-image-overlap) |
 | [0940-fruit-into-baskets](https://github.com/rickymahto22/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rickymahto22/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -429,6 +430,7 @@
 | [0032-longest-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rickymahto22/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/rickymahto22/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/rickymahto22/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rickymahto22/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
