@@ -35,6 +35,7 @@
 | [0739-daily-temperatures](https://github.com/rickymahto22/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/rickymahto22/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/rickymahto22/Leetcode/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/rickymahto22/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/rickymahto22/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rickymahto22/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/rickymahto22/Leetcode/tree/master/0994-rotting-oranges) |
@@ -224,6 +225,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/rickymahto22/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rickymahto22/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/rickymahto22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/rickymahto22/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rickymahto22/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
