@@ -38,6 +38,7 @@
 | [0940-fruit-into-baskets](https://github.com/rickymahto22/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rickymahto22/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/rickymahto22/Leetcode/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rickymahto22/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -130,6 +131,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rickymahto22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rickymahto22/Leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/rickymahto22/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rickymahto22/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rickymahto22/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -199,6 +201,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rickymahto22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/rickymahto22/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rickymahto22/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rickymahto22/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rickymahto22/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -219,6 +222,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/rickymahto22/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rickymahto22/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/rickymahto22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rickymahto22/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/rickymahto22/Leetcode/tree/master/1268-search-suggestions-system) |
