@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/rickymahto22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/rickymahto22/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/rickymahto22/Leetcode/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/rickymahto22/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rickymahto22/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/rickymahto22/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rickymahto22/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -286,6 +287,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rickymahto22/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/rickymahto22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/rickymahto22/Leetcode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/rickymahto22/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
