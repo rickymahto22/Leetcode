@@ -46,6 +46,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/rickymahto22/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rickymahto22/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/rickymahto22/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/rickymahto22/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/rickymahto22/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1319-unique-number-of-occurrences](https://github.com/rickymahto22/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rickymahto22/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -443,6 +444,7 @@
 | [0841-keys-and-rooms](https://github.com/rickymahto22/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/rickymahto22/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/rickymahto22/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rickymahto22/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -506,6 +508,7 @@
 | ------- |
 | [0835-image-overlap](https://github.com/rickymahto22/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/rickymahto22/Leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/rickymahto22/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/rickymahto22/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rickymahto22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/rickymahto22/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -574,6 +577,7 @@
 | [0994-rotting-oranges](https://github.com/rickymahto22/Leetcode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/rickymahto22/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/rickymahto22/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rickymahto22/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rickymahto22/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/rickymahto22/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -654,6 +658,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/rickymahto22/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/rickymahto22/Leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/rickymahto22/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rickymahto22/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
