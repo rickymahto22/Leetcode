@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/rickymahto22/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rickymahto22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/rickymahto22/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/rickymahto22/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rickymahto22/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/rickymahto22/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/rickymahto22/Leetcode/tree/master/0055-jump-game) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rickymahto22/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rickymahto22/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/rickymahto22/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rickymahto22/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rickymahto22/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rickymahto22/Leetcode/tree/master/0125-valid-palindrome) |
@@ -513,6 +515,7 @@
 | [0005-longest-palindromic-substring](https://github.com/rickymahto22/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rickymahto22/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rickymahto22/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rickymahto22/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rickymahto22/Leetcode/tree/master/0062-unique-paths) |
@@ -585,6 +588,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rickymahto22/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/rickymahto22/Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/rickymahto22/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/rickymahto22/Leetcode/tree/master/0735-asteroid-collision) |
@@ -752,6 +756,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rickymahto22/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/rickymahto22/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rickymahto22/Leetcode/tree/master/0901-online-stock-span) |
 ## Counting Sort
