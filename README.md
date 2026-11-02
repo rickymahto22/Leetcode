@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/rickymahto22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/rickymahto22/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/rickymahto22/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/rickymahto22/Leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rickymahto22/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rickymahto22/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rickymahto22/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rickymahto22/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/rickymahto22/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rickymahto22/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/rickymahto22/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -500,6 +502,7 @@
 | [0005-longest-palindromic-substring](https://github.com/rickymahto22/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/rickymahto22/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rickymahto22/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/rickymahto22/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rickymahto22/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
