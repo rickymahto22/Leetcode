@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/rickymahto22/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rickymahto22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rickymahto22/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/rickymahto22/Leetcode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/rickymahto22/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rickymahto22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -106,6 +107,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/rickymahto22/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/rickymahto22/Leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/rickymahto22/Leetcode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rickymahto22/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/rickymahto22/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rickymahto22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -195,6 +197,7 @@
 | [0012-integer-to-roman](https://github.com/rickymahto22/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rickymahto22/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/rickymahto22/Leetcode/tree/master/0062-unique-paths) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rickymahto22/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rickymahto22/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rickymahto22/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/rickymahto22/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -644,6 +647,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rickymahto22/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rickymahto22/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/rickymahto22/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/rickymahto22/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rickymahto22/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -750,4 +754,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rickymahto22/Leetcode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rickymahto22/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
