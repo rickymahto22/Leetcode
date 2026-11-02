@@ -22,6 +22,7 @@
 | [0216-combination-sum-iii](https://github.com/rickymahto22/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/rickymahto22/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rickymahto22/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/rickymahto22/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/rickymahto22/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rickymahto22/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/rickymahto22/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -169,6 +170,7 @@
 | [0088-merge-sorted-array](https://github.com/rickymahto22/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rickymahto22/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rickymahto22/Leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/rickymahto22/Leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/rickymahto22/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/rickymahto22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rickymahto22/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -744,4 +746,8 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/rickymahto22/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rickymahto22/Leetcode/tree/master/0901-online-stock-span) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/rickymahto22/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
