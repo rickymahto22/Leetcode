@@ -336,6 +336,7 @@
 | [0022-generate-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rickymahto22/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rickymahto22/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/rickymahto22/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/rickymahto22/Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/rickymahto22/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rickymahto22/Leetcode/tree/master/0151-reverse-words-in-a-string) |
